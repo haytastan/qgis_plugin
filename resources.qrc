@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/editablegeocsv" >
+        <file>geocsv.png</file>
+    </qresource>
+</RCC>
